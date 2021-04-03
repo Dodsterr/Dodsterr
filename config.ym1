@@ -1,0 +1,6 @@
+accounts:
+  - name: Dodsterr
+    coins: ["322token", "322stake"]
+    validator:
+  name: Dodsterr
+  staked: "322stake"
